@@ -1,0 +1,51 @@
+{
+    "title":"Que jogador de Rugby você seria ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Você tem um bom domínio de bola, tanto com os pés e mãos?",
+        "options":[
+          {"id": 1, "name":"Apenas com as mãos", "alias":"A"},
+          {"id": 2, "name":"Sim, com ambos", "alias":"B"}
+          
+        ]
+      },
+      {
+        "id":2,
+        "question": "Você em campo gosta de ficar orientando os seus companheiros ?",
+        "options":[
+          {"id": 1, "name":"Não, eu sigo as orientações", "alias":"A"},
+          {"id": 2, "name":"Sim, estou sempre orientando meus companheiros", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "em uma situação de jogo, você prefere...",
+        "options":[
+          {"id": 1, "name":"Derrubar os adversários quando eles atacassem", "alias":"A"},
+          {"id": 2, "name":"Romper a defesa adversária para pontuar", "alias":"B"}
+          
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco como jogador?",
+        "options":[
+          {"id": 1, "name":"Ficar mais forte e rápido", "alias":"B"},
+          {"id": 2, "name":"Focar em ser o mais forte", "alias":"A"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual das duas opções você mais se identifica ?",
+        "options":[
+          {"id": 1, "name":"Jogador grande", "alias":"A"},
+          {"id": 2, "name":"Jogador velocista", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você seria um jogador que joga como Forward",
+      "B": "Você seria um jogador que joga como Back"
+    }
+  }
